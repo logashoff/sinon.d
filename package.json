@@ -1,0 +1,7 @@
+{
+  "name": "sinon.d",
+  "version": "0.0.0",
+  "description": "Forked from https://github.com/DefinitelyTyped/DefinitelyTyped/blob/6f5c53028aaeb2f9e184561f4bf70eaa22a351c3/sinon/sinon.d.ts",
+  "main": "",
+  "typings": "index.d.ts"
+}
